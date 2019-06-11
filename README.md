@@ -1,2 +1,2 @@
-# homeautomation
+# Home Assistant
 Everything Home Automation related
